@@ -1,344 +1,344 @@
-@Instasave_Bot
-@SocialSaverBot
-@SaveAsBot
+<br>@Instasave_Bot
+<br>@SocialSaverBot
+<br>@SaveAsBot
 
 Enables Instagram
-@RegramBot
-@InstaBest_Bot
-@IppGBot
-@Instatube_Bot
-@Instaroonx_Bot
-@InstaBot
-@InstaProfile_Bot
+<br>@RegramBot
+<br>@InstaBest_Bot
+<br>@IppGBot
+<br>@Instatube_Bot
+<br>@Instaroonx_Bot
+<br>@InstaBot
+<br>@InstaProfile_Bot
 
 Wikipedia, the free encyclopedia
-@Wiki
-@WikishBot
-@WikipediaSummaryBot
+<br>@Wiki
+<br>@WikishBot
+<br>@WikipediaSummaryBot
 
 Search for photos
-@Bing
-@ImageBot
-@ReverseSearchBot
-@ReverseImgBot
-@SauceNAOBot
-@G_iBot
-@GoogleSearchRobot
-@GooglePhotoBOT
-@GoglimgBot
+<br>@Bing
+<br>@ImageBot
+<br>@ReverseSearchBot
+<br>@ReverseImgBot
+<br>@SauceNAOBot
+<br>@G_iBot
+<br>@GoogleSearchRobot
+<br>@GooglePhotoBOT
+<br>@GoglimgBot
 
 Research Gif
-@Gif
-@TenorBot
-@GuggyBot
-@Coub
+<br>@Gif
+<br>@TenorBot
+<br>@GuggyBot
+<br>@Coub
 
 Research on the net
-@GoogleSearchUnofficialBot
-@RiBot
-@GoogleDEBot
-@LetmeBot
+<br>@GoogleSearchUnofficialBot
+<br>@RiBot
+<br>@GoogleDEBot
+<br>@LetmeBot
 
 Steal from Twitter
-@TweetItBot
-@TelewitterBot
-@TwiTelegram_Bot
+<br>@TweetItBot
+<br>@TelewitterBot
+<br>@TwiTelegram_Bot
 
 Reddit
-@hotRedditBot
-@inlineredditBot
-@RedditBrowserBot
-@Reddit_Download_Bot
+<br>@hotRedditBot
+<br>@inlineredditBot
+<br>@RedditBrowserBot
+<br>@Reddit_Download_Bot
 
 Making Qr
-@TheQRBot
-@MakeQrBot
-@MakeQRcodeRoBot
-@BarQRCodeBot
-@QrscannerproBot
+<br>@TheQRBot
+<br>@MakeQrBot
+<br>@MakeQRcodeRoBot
+<br>@BarQRCodeBot
+<br>@QrscannerproBot
 
 Translator
-@Translate_roBot
-@LitransBot
-@TransisBot
-@YTranslateBot
-@NovindictionaryBot
-@Abadisdic_Bot
-@AFTranslateBot
-@TranslateBot
+<br>@Translate_roBot
+<br>@LitransBot
+<br>@TransisBot
+<br>@YTranslateBot
+<br>@NovindictionaryBot
+<br>@Abadisdic_Bot
+<br>@AFTranslateBot
+<br>@TranslateBot
 
 learning English
-@AndyRoBot
+<br>@AndyRoBot
 
 download of music
-@Moozikestan_Bot
-@SCloud_Bot
-@MP3sBot
-@vkm_Bot
-@vkm4Bot
-@vkmusic_Bot
-@MuzzzBot
-@SpotifyBot
-@Musica
-@Pocket_Music_Bot
-@BeatSpotBot
-@HeadphoneBot
-@Yandex_Music_Bot
-@SpotifyMusicDownloaderBot
-@DeezerMusicBot
-@Spotify_to_mp3_Bot
-@DeezloaderAn0n_Bot
-@MusicHuntersBot
-@DeezLoadBot
-@FlacStoreBot
-@JoeyMusicBot
-@ShazamMusicChartsBot
-@Italian_Deezer_Bot
-@FusionDL_Bot
-@Deezer_SpotifyBot
+<br>@Moozikestan_Bot
+<br>@SCloud_Bot
+<br>@MP3sBot
+<br>@vkm_Bot
+<br>@vkm4Bot
+<br>@vkmusic_Bot
+<br>@MuzzzBot
+<br>@SpotifyBot
+<br>@Musica
+<br>@Pocket_Music_Bot
+<br>@BeatSpotBot
+<br>@HeadphoneBot
+<br>@Yandex_Music_Bot
+<br>@SpotifyMusicDownloaderBot
+<br>@DeezerMusicBot
+<br>@Spotify_to_mp3_Bot
+<br>@DeezloaderAn0n_Bot
+<br>@MusicHuntersBot
+<br>@DeezLoadBot
+<br>@FlacStoreBot
+<br>@JoeyMusicBot
+<br>@ShazamMusicChartsBot
+<br>@Italian_Deezer_Bot
+<br>@FusionDL_Bot
+<br>@Deezer_SpotifyBot
 
 Find musics
-@MeloBot
-@AcknoBot
-@iSoundBot
-@SongIDBot
-@AuddBot
+<br>@MeloBot
+<br>@AcknoBot
+<br>@iSoundBot
+<br>@SongIDBot
+<br>@AuddBot
 
 Interesting voices
-@MyInstantsBot
-@ComsoBot
+<br>@MyInstantsBot
+<br>@ComsoBot
 
 Research Podcast
-@PodSearchBot
-@YourCastBot
+<br>@PodSearchBot
+<br>@YourCastBot
 
 Edit to music
-@Mp3toolsBot
-@SetTagBot
-@BitraitBot
-@AudioSpeedBot
-@EncoderBot
-@MusicManagerBot
-@AudioCutterBot
-@XompressorBot
+<br>@Mp3toolsBot
+<br>@SetTagBot
+<br>@BitraitBot
+<br>@AudioSpeedBot
+<br>@EncoderBot
+<br>@MusicManagerBot
+<br>@AudioCutterBot
+<br>@XompressorBot
 
 letter
-@iLcyclingBot
-@LcyclingGramBot
-@Song_Lcycling_Bot
+<br>@iLcyclingBot
+<br>@LcyclingGramBot
+<br>@Song_Lcycling_Bot
 
 Anonymous Bate-papo
-@ChatIncognitoBot
-@SafeChat_Bot
+<br>@ChatIncognitoBot
+<br>@SafeChat_Bot
 
 Anonymous message
-@HarfbemanBot
-@PosttoBot
+<br>@HarfbemanBot
+<br>@PosttoBot
 
 Research of books
-@TeleReadsBot
-@EbukBot
-@PdfoBot
-@DualBookBot
-@Libsan_Bot
+<br>@TeleReadsBot
+<br>@EbukBot
+<br>@PdfoBot
+<br>@DualBookBot
+<br>@Libsan_Bot
 
 Lendo a book
-@BuklyaBot
+<br>@BuklyaBot
 
 quotation
-@NovlerBot
+<br>@NovlerBot
 
 Enclosure or link
-@LinkGeneratorBot
-@ShortUrlBot
-@Ylinkpro_Bot
-@ln2bot
-@KootahRoBot
-@OpizoComBot
-@TeURLBot
+<br>@LinkGeneratorBot
+<br>@ShortUrlBot
+<br>@Ylinkpro_Bot
+<br>@ln2bot
+<br>@KootahRoBot
+<br>@OpizoComBot
+<br>@TeURLBot
 
 Share link
-@Tgshare_Bot
+<br>@Tgshare_Bot
 
 Link correction
-@HttpResponseBot
-@UN_R0BOT
-@UrlDecode_Bot
+<br>@HttpResponseBot
+<br>@UN_R0BOT
+<br>@UrlDecode_Bot
 
 Text correction
-@FixmeBot
+<br>@FixmeBot
 
 Channel information and people
-@UserinfoBot
-@UsinfoBot
-@Get_id_Bot
-@GroupIDBot
-@GetidsBot
+<br>@UserinfoBot
+<br>@UsinfoBot
+<br>@Get_id_Bot
+<br>@GroupIDBot
+<br>@GetidsBot
 
 Archive information
-@Sticker_File_Id_Bot
+<br>@Sticker_File_Id_Bot
 
 Save ID
-@UserStoreBot
+<br>@UserStoreBot
 
 Site Information
-@Whois_Bot
+<br>@Whois_Bot
 
 Alexa Rank
-@Alexa_Ranker_Bot
-@AlexaDailyRank_Bot
+<br>@Alexa_Ranker_Bot
+<br>@AlexaDailyRank_Bot
 
 IP information
-@IPinfoRoBot
-@IPwhoisBot
+<br>@IPinfoRoBot
+<br>@IPwhoisBot
 
 Content of sites
-@ReadmeBot
+<br>@ReadmeBot
 
 Telegram services
-@IFTTT
+<br>@IFTTT
 
 Payment of telegram
-@ShopBot
+<br>@ShopBot
 
 wallet
-@BTC_Change_Bot
+<br>@BTC_Change_Bot
 
 But RSS
-@TelefeedBot
-@TheFeedReaderBot
-@TreaderBot
-@AximoBot
-@PstrBot
-@FeedManBot
-@RSS2tg_Bot
-@Rss4You_Bot
-@Rssar_Bot
-@RssServiceBot
-@RSSFlowBot
-@El_Monitorro_Bot
+<br>@TelefeedBot
+<br>@TheFeedReaderBot
+<br>@TreaderBot
+<br>@AximoBot
+<br>@PstrBot
+<br>@FeedManBot
+<br>@RSS2tg_Bot
+<br>@Rss4You_Bot
+<br>@Rssar_Bot
+<br>@RssServiceBot
+<br>@RSSFlowBot
+<br>@El_Monitorro_Bot
 
 RSS feed
-@Junction_Bot
+<br>@Junction_Bot
 
 Ferramenta Token
-@Info_Token_Bot
+<br>@Info_Token_Bot
 
 Font test
-@Rextester_Bot
+<br>@Rextester_Bot
 
 download Android app
-@Apkdl_Bot
-@AppFollowBot
+<br>@Apkdl_Bot
+<br>@AppFollowBot
 
 news about sports
-@LiveRoBot
+<br>@LiveRoBot
 
 News
-@HeadlinesBot
-@GooglNews_Bot
+<br>@HeadlinesBot
+<br>@GooglNews_Bot
 
 Group mentions
-@EveryoneTheBot
+<br>@EveryoneTheBot
 
 Lower the filter circuit breaker
-@PaskoochehBot
+<br>@PaskoochehBot
 
 Radio
-@RadioBot
-@GIKRadioBot
+<br>@RadioBot
+<br>@GIKRadioBot
 
 dictionary
-@VajehyabBot
-@Multitran_Bot
-@JapanDictBot
-@TranslateGerman_Bot
+<br>@VajehyabBot
+<br>@Multitran_Bot
+<br>@JapanDictBot
+<br>@TranslateGerman_Bot
 
 calculator
-@MaclBot
+<br>@MaclBot
 
 JSON message
-@JsonDumpBot
-@ReturnjsonBot
-@ShowJsonBot
+<br>@JsonDumpBot
+<br>@ReturnjsonBot
+<br>@ShowJsonBot
 
 Send message in HTML
-@MdtohtmlBot
+<br>@MdtohtmlBot
 
 Notes
-@BNoteBot
-@EvernoteroBot
+<br>@BNoteBot
+<br>@EvernoteroBot
 
 Save links
-@BookmarchBot
-@My_Links_Bot
+<br>@BookmarchBot
+<br>@My_Links_Bot
 
 Research movies and series
-@imdb
-@MovieReleaseBot
-@LostFilmUpdatesBot
+<br>@imdb
+<br>@MovieReleaseBot
+<br>@LostFilmUpdatesBot
 
 Low movies and series
-@TVSeriesRoBot
-@Sanjus_Bot
-@MovieGodBot
-@FilmgramBot
+<br>@TVSeriesRoBot
+<br>@Sanjus_Bot
+<br>@MovieGodBot
+<br>@FilmgramBot
 
 YouTube
-@vid
-@YouTube
-@YtWatchBot
-@YouTubeReaderBot
+<br>@vid
+<br>@YouTube
+<br>@YtWatchBot
+<br>@YouTubeReaderBot
 
 Apparatus
-@ApaRobot
+<br>@ApaRobot
 
 download from youtube
-@UtubeBot
-@uVidBot
-@iziBot
-@Dwnmp3Bot
-@AudioTubeBot
-@SaveYoutubeBot
-@RemoteYoutubedl_Bot
-@YtbDownBot
+<br>@UtubeBot
+<br>@uVidBot
+<br>@iziBot
+<br>@Dwnmp3Bot
+<br>@AudioTubeBot
+<br>@SaveYoutubeBot
+<br>@RemoteYoutubedl_Bot
+<br>@YtbDownBot
 
 Download the video from Twitter
-@Twittervid_Bot
-@TwitterDownloaderBot
+<br>@Twittervid_Bot
+<br>@TwitterDownloaderBot
 
 Download from Tiktok
-@TTSaveBot
-@HK_Tiktok_Bot
+<br>@TTSaveBot
+<br>@HK_Tiktok_Bot
 
-➡️Video canvas captures
-@ScreenCaptureBot
+Video canvas captures
+<br>@ScreenCaptureBot
 
-➡️Hyperlink
-@Negrito
-@MarkdownProBot
-@T2lBot
+Hyperlink
+<br>@Negrito
+<br>@MarkdownProBot
+<br>@T2lBot
 
-➡️Relocation management
-@TwiMonBot
+Relocation management
+<br>@TwiMonBot
 
-➡️Management VK
-@VkmesseBot
+Management VK
+<br>@VkmesseBot
 
-➡️Comment in advance
-@Previews
+Comment in advance
+<br>@Previews
 
-➡️Making a GIF
-@VgifBot
-@GitHubBot
-@GithubReleasesBot
+Making a GIF
+<br>@VgifBot
+<br>@GitHubBot
+<br>@GithubReleasesBot
 
-➡️Theme Search-Build Telegram
-@CreateAtthemeBot
+Theme Search-Build Telegram
+<br>@CreateAtthemeBot
 
-➡️Research and make adhesives
-@Adesivos
-@DemyBot
-@Sticker
-@EzStickerBot
-@Stickerpip
+Research and make adhesives
+<br>@Adesivos
+<br>@DemyBot
+<br>@Sticker
+<br>@EzStickerBot
+<br>@Stickerpip
